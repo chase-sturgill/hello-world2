@@ -1,2 +1,4 @@
 # hello-world2
-Testing GitHub
+
+Writing code to test how GitHub works. 
+
